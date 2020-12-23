@@ -1,2 +1,2 @@
 # bot-annoying
-bad bot from bad boy
+bad bot code
